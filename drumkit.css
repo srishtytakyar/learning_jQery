@@ -1,0 +1,45 @@
+body{background-color: #252a34;
+text-align: center;
+}
+h1{
+	font-size: 6rem;
+	color:#eaeaea ;
+	text-shadow: 4px 0 #537780;
+	font-family:  'Balsamiq Sans', cursive;
+}
+div{
+	margin: 10% auto;
+}
+footer{
+	color: #FFF;
+}
+
+
+.drum{
+	  border: 10px solid #404B69;
+	  font-size: 5rem;
+	  font-family:  'Balsamiq Sans', cursive;
+	    color: #f95959;
+     text-shadow: 3px 0 #f9ecec;
+     border-radius: 20px;
+     display: inline-block;
+     margin: 15px;
+	  width: 150px;
+     height: 150px;
+     text-align: center;
+}
+
+.p{background-image: url(images/tom1.png);}
+.l{background-image: url(images/tom2.png);}
+.a{background-image: url(images/tom3.png);}
+.y{background-image: url(images/tom4.png);}
+.d{background-image: url(images/tom5.png);}
+.i{background-image: url(images/tom6.png);}
+.s{background-image: url(images/tom7.png);}
+
+.pressed{
+	box-shadow: 0 3px 4px 0 #DBEDF3;
+	opacity: 0.5;
+}
+
+
